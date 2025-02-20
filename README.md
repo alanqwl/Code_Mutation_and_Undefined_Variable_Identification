@@ -1,7 +1,7 @@
 # Code_Mutation_and_Undefined_Variable_Identification
 
 ## Goal
-This project performs various program manipulation with Python abstract syntax tree (AST). The main tasks of the project is to implement code mutation and undefined variable identification. Code mutation is a fundemental technique in software analysis/testing. It insert som e small faults into the original program in order to measure the ability of the test suite to detect them. This technique is widely used in mutation testing. Undefined variable identification aims to identify undefined variables statically (without running the program itself).
+This project performs various program manipulation with Python abstract syntax tree (AST). The main tasks of the project is to implement code mutation and undefined variable identification. Code mutation is a fundemental technique in software analysis/testing. It insert some small faults into the original program in order to measure the ability of the test suite to detect them. This technique is widely used in mutation testing. Undefined variable identification aims to identify undefined variables statically (without running the program itself).
 
 ## Part 1: Code Mutation
 ### Mutation Strategies
